@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import App from './App3';
+import FormularioPerfil from './FormularioPerfil';
 
 ReactDOM.render(
-    <App />,
+    <FormularioPerfil />,
     document.getElementById('app')
 );
